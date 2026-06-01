@@ -1,0 +1,15 @@
+dns_query,count,unique_src,suspicious
+apple.com,75,6,False
+facebook.com,64,6,False
+google.com,60,6,False
+instagram.com,57,6,False
+reddit.com,55,6,False
+github.com,55,6,False
+twitter.com,55,6,False
+stackoverflow.com,54,6,False
+youtube.com,54,6,False
+malicious-c2.xyz,52,6,True
+netflix.com,51,6,False
+cloudflare.com,51,6,False
+amazon.com,47,6,False
+update.windows.com,45,6,False

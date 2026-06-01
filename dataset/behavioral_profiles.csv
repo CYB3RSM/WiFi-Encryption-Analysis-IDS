@@ -1,0 +1,7 @@
+src_ip,device_type,total_packets,encrypted_pkts,plaintext_pkts,enc_ratio,total_bytes,pkt_rate_pps,unique_dst,dns_queries,weak_enc_pkts,anomaly_pkts,top_proto,http_pct,https_pct,dns_pct
+192.168.1.10,laptop,794,454,340,0.572,64217701,1.592,10,138,218,21,HTTPS,5.3,26.7,17.4
+192.168.1.11,smartphone,800,463,337,0.579,76767875,1.603,10,123,214,30,HTTPS,4.4,24.1,15.4
+192.168.1.12,smart_tv,850,512,338,0.602,69816912,1.709,10,116,222,21,HTTPS,4.6,24.9,13.6
+192.168.1.13,iot_sensor,859,487,372,0.567,75387716,1.719,10,139,236,26,HTTPS,4.2,23.5,16.2
+192.168.1.14,desktop,830,465,365,0.56,74309202,1.661,10,135,198,27,HTTPS,5.2,24.3,16.3
+192.168.1.15,tablet,867,515,352,0.594,70889192,1.737,10,124,222,25,HTTPS,3.9,25.4,14.3

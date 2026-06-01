@@ -1,0 +1,3 @@
+timestamp,src_ip,dst_ip,src_port,dst_port,protocol,packet_length,encryption_flag,tls_version,cipher_suite,dns_query,http_host,encryption_strength,protocol_encoded,encryption_encoded,anomaly,anomaly_label
+-1110873770.257511,Unknown,Unknown,Unknown,Unknown,WLAN_EXT,11328,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,0,0,1,Normal
+0.0,Unknown,Unknown,Unknown,Unknown,_WS.MALFORMED,77,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,1,0,1,Normal
