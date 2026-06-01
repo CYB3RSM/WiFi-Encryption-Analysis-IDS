@@ -38,5 +38,12 @@ No decryption of HTTPS or private traffic.
 
 **Technologies:** Python, Scapy, PyShark, TShark, Scikit-learn, Dash/Plotly/Matplotlib
 
+
+
+
+
+
+
+
 **Program:** MS Information Systems  
 **Submission Date:** 01 June 2026
